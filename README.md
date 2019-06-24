@@ -1,4 +1,4 @@
-# dome
+# student MIS
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
